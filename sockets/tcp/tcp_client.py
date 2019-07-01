@@ -1,5 +1,4 @@
 import socket
-import time
 
 
 def run_client():
